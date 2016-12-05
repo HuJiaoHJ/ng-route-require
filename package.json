@@ -1,6 +1,6 @@
 {
   "name": "ng-route-require",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a plugin asynchronously loads resources on demand (used in SPA)",
   "main": "index.js",
   "scripts": {
